@@ -59,9 +59,10 @@ ClothesMarket follows the MVVM (Model-View-ViewModel) architecture pattern, whic
 ## Project Structure
 The project is organized into well-structured packages following Android best practices:
 
+```
 app/
 ├── java/
-│   └── com.clothesmarket
+│   └── com.clothesmarket/
 │       ├── activities/           # Contains all Activity classes
 │       ├── adapters/             # Custom adapters for RecyclerViews
 │       ├── database/             # Room database classes and DAO interfaces
@@ -73,6 +74,8 @@ app/
 │   └── layout/                   # XML layout files for UI
 ├── build.gradle                  # Project-level Gradle config
 ├── settings.gradle               # Settings for the Gradle build system
+```
+
 
 
 ## Contributions
