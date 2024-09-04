@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760593085837",
+    "firebase_url": "https://clothesmarket-c036a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clothesmarket-c036a",
+    "storage_bucket": "clothesmarket-c036a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760593085837:android:a3d77c1c2fa24b2945b9c4",
+        "android_client_info": {
+          "package_name": "com.envy.clothesmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760593085837-407u8r4bk085rds2mvn3c43frmd2tko0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.envy.clothesmarket",
+            "certificate_hash": "bef552d44d5e86578745958312bcd7321fe95364"
+          }
+        },
+        {
+          "client_id": "760593085837-987q3v1s6e27tt60knirj34mcs7u1rpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqbBhzmf8nlUgnOJgCsa21dH9-513aIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760593085837-987q3v1s6e27tt60knirj34mcs7u1rpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
